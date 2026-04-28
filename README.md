@@ -57,4 +57,4 @@ Backend: https://my-api.onrender.com/api
 * Deployment bugs → fixed env variables
 
 ## Live Demo 
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo]( https://mwas12345spec.github.io/iyf-s10-week-12-mwas12345spec/)
